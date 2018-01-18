@@ -65,5 +65,14 @@ Follow the following steps:
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://vishalpolley.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishalpolley.github.io/resume/</guid>
+      <description>Vishal Polley Resume  .info { margin: 30px; } @media screen and (max-width: 480px) { .info { margin: 8px; } } .myinfo { list-style-type: none; margin-left: -40px; } table, th, td { font-size: 1em; padding: 5px; background-color: #e6e6e6; text-align: left; padding-bottom: 10px; border-top-width: 2px; border-bottom-width: 2px; border-top-style: solid; border-bottom-style: solid; border-collapse: collapse; } a { text-decoration: none; }   Vishal Polley Intern at ERIGO Labs LLP IET Lucknow Email-id: vishalpolley290996@gmail.</description>
+    </item>
+    
   </channel>
 </rss>
