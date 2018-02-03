@@ -1,0 +1,31 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    project: New Branch Evaluation and Tender Filling API
+    description: This is the project built by us during Baroda Finathon Challenge at hackerearth. We built two APIs namely New Branch Evaluation API and Tender Filling API. The stacks used were Django REST Framework, scikit-learn, Numpy, Google Maps Geocoding, Places API, Nestoria API. See the Idea of the project [link](https://github.com/vishalpolley/Baroda-Finathon-Challenge/blob/master/Operational%20Efficiency.md).
+    link: https://github.com/vishalpolley/Baroda-Finathon-Challenge
+
+  - icon: fa fa-globe
+    project: The TLDR; Post
+    description: This project was built by us during our summer internship at ERIGO Labs LLP. It is a web application build on Django Framework. The purpose of the application is to summarise the news articles. The stacks used were Django, Django REST Framework. Our Mentor for this project was Gaurav Srivastava.
+    link: https://tldr.erigolabs.com
+
+  - icon: fa fa-globe
+    project: Law Helpline
+    description: This web portfolio is built for the Legal Advisor of Governor of UP. It consists of various articles and works done by him in different fields. Our Mentor for this project was Prof. Manish Gaur of Computer Science Department , IET Lucknow.
+    link: http://lawhelpline.in
+
+  - icon: fa fa-globe
+    project: Parakram
+    description: Our task was to build the site of IET Lucknow's technical fest 'Parakram' . The site compromised of signing up , logging in of users, with the implementation of registration dashboard for the user. The site also embeds the payment gateway portal through Paytm . We also conducted two online events namely 'Cryptia' and 'bits and divs' through the site. The backend is built on PHP and for front end JS, CSS and HTML were used. The site uses material design for it's layout and walso implemented particles js in the website.
+    link: http://ietparakram.in
+
+  - icon: fa fa-globe
+    project: Shauryotsava
+    description: Our task was to design our college sports fest 'Shauryotsava' website , so we decided to design and implement each element for it. The site contains registration for all events and manage their database , sending email to the submitted online form using PHP , contact form , description for each event , social links , etc. The languages used were PHP , MySQL database, HTML , CSS and JavaScript.
+    link: https://vishalpolley.github.io/Shauryotsava-2K17/
+
+  - icon: fa fa-github
+    project: Library Management System
+    description: This is a project of library management. The aim was to develop a overall books management system where the students can issue and return the books. The project also includes the registration of all the students and maintaining their databases. The languages used for frontend are HTML , CSS , and Bootstrap, for backend PHP is used and for database management MySQL is used.
+    link: https://github.com/vishalpolley/Project-LibMang
