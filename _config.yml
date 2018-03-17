@@ -1,0 +1,43 @@
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vishalpolley.github.io" # the base hostname & protocol for your site e.g. https://vishalpolley.github.io
+
+# User settings
+username: Vishal Polley
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Python Enthusiast
+email: vishalpolley290996@gmail.com
+twitter_username: vishalpolley
+github_username:  vishalpolley
+gplus_username:  115857569839787281749
+disqus_username: vishalpolley
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
