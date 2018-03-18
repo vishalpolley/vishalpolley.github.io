@@ -1,13 +1,13 @@
 # Site settings
-title: Vishal Polley
-description: Vishal Polley Blog
+title: Vishal Polley Blog 
+description: I love grasping new concepts related to computer world and intend to apply them into real world for the welfare of the society.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vishalpolley.github.io" # the base hostname & protocol for your site e.g. https://vishalpolley.github.io
 
 # User settings
 username: Vishal Polley
-user_description: Python Enthusiast
-user_title: Python Enthusiast
+user_description: I love grasping new concepts related to computer world and intend to apply them into real world for the welfare of the society.
+user_title: "Computer Vision, Open Source and Python Enthusiast :snake:"
 email: vishalpolley290996@gmail.com
 twitter_username: vishalpolley
 github_username:  vishalpolley
@@ -26,6 +26,10 @@ compress_html:
   comments: all
   endings: []
   profile: false
+
+# Plugins
+plugins:
+  - jemoji
 
 # Links to include in menu navigation
 # For external links add external: true
