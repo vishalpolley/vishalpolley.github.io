@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Vishal Polley
+description: Vishal Polley Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vishalpolley.github.io" # the base hostname & protocol for your site e.g. https://vishalpolley.github.io
 
 # User settings
 username: Vishal Polley
-user_description: Anon Developer at Lorem Ipsum Dolor
+user_description: Python Enthusiast
 user_title: Python Enthusiast
 email: vishalpolley290996@gmail.com
 twitter_username: vishalpolley
